@@ -1,1 +1,1 @@
-A fun interactive frontend game
+# A Fun & Interactive Frontend Web Based Game
